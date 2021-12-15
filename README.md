@@ -1,4 +1,4 @@
-# scipy-singledispatch &middot; [![CI status](https://github.com/ivanyashchuk/scipy-singledispatch/workflows/CI/badge.svg)](https://github.com/ivanyashchuk/scipy-singledispatch/actions?query=workflow%3AFEniCS+branch%3Amaster)
+# scipy-singledispatch &middot;
 
 This package demonstrates the use of SciPy with [`functools.singledispatch`](https://docs.python.org/3/library/functools.html#functools.singledispatch) for registering functions with different array types than NumPy.
 
